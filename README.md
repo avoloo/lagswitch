@@ -1,3 +1,7 @@
+Program must be started with adminstation permissions
+
+Program description in German
+
 EN
 
 Lag switch for each game or program. 
